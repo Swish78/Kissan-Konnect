@@ -18,9 +18,9 @@ crop_data = pd.read_csv('data/crop_data.csv')
 calendar_today = pd.read_csv('data/india.csv')
 
 # OpenWeatherMap API key
-OPENWEATHERMAP_API_KEY = "a0d77a2c94c1137ceb3d4a8d17ede9f6"
+OPENWEATHERMAP_API_KEY = "..."
 
-NEWS_API_KEY = '72c08fc45c7348a39c4f84c249c2211d'
+NEWS_API_KEY = '..'
 
 
 def get_weather(city):
